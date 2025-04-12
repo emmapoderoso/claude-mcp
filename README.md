@@ -1,6 +1,8 @@
 # MCP for Claude.ai
 
 A browser extension that enables MCP (Model Control Protocol) capabilities in Claude.ai, allowing you to connect Claude to external tools and services directly from the browser. This enables functionality that's already existing in claude.ai but not enabled. 
+<img width="400" alt="Screenshot 2025-04-12 at 3 53 10 PM" src="https://github.com/user-attachments/assets/65e69843-58d4-4686-80d9-1f6bb000e015" />
+<img width="455" alt="Screenshot 2025-04-12 at 3 53 33 PM" src="https://github.com/user-attachments/assets/ba4b9b62-1cae-41db-ad58-8a824b6f861a" />
 
 ## Features
 
